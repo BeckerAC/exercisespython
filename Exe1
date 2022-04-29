@@ -1,0 +1,7 @@
+dez = int(input("Insira um valor: "))
+if dez>10:
+    print("Esse número é maior que 10!")
+elif dez==10:
+    print("Esse número é igual a 10!")
+else:
+    print("Esse número é menor que 10!")
